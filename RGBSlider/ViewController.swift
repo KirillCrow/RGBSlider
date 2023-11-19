@@ -1,12 +1,7 @@
-//
-//  ViewController.swift
-//  RGBSlider
-//
-//  Created by Mac on 19.11.2023.
-//
 
 import UIKit
 
+//MARK: - View Controller
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
