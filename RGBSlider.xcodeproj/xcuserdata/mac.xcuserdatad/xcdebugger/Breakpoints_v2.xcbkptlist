@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "21B0D30A-385B-4007-A744-FDA143C27879"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RGBSlider/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E - 1223bdc7154c5fc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.colorView.getter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E - f1f3d9066b19a2d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.colorView.setter : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E - 2e83f4c976ce35b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.colorView.modify : Swift.Optional&lt;__C.UIView&gt;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E - f1bfbaa41838c1f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.colorView.modify : Swift.Optional&lt;__C.UIView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E - ce2abebdd07838a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RGBSlider.ViewController"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "120965AD-32DF-46E8-A0EF-E63292187B1E - 71e70c8c2847b3e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RGBSlider.ViewController&gt;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93041AA5-1F9C-4DF6-B600-E8CBDFC48C5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RGBSlider/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "93041AA5-1F9C-4DF6-B600-E8CBDFC48C5F - a37f4cd3d4ab650f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RGBSlider.ViewController"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "93041AA5-1F9C-4DF6-B600-E8CBDFC48C5F - ce2abebdd07838a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RGBSlider.ViewController"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "93041AA5-1F9C-4DF6-B600-E8CBDFC48C5F - 4fbd408b97a81572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RGBSlider.ViewController&gt;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "93041AA5-1F9C-4DF6-B600-E8CBDFC48C5F - 71e70c8c2847b3e5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RGBSlider.ViewController&gt;"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "7"
+                  endingLineNumber = "7"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "93041AA5-1F9C-4DF6-B600-E8CBDFC48C5F - 4be83525330fdd64"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RGBSlider.ViewController.__deallocating_deinit"
+                  moduleName = "RGBSlider"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/xCode%20projects/RGBSlider/RGBSlider/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
