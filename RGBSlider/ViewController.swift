@@ -19,11 +19,11 @@ final class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        updateColorView()
         colorView.layer.cornerRadius = 15
         skipButton.layer.cornerRadius = 15
         installationValues()
         setupSliders()
+        defaultSettings()
     }
     @IBAction func redSliderAction() {
         redValue.text = String(format: "%0.2f", redSlider.value)
@@ -61,11 +61,15 @@ final class ViewController: UIViewController {
             blue: CGFloat(blueSlider.value),
             alpha: CGFloat(1))
     }
-    private func skipToDefault() {
+    private func defaultSettings() {
         redSlider.value = 0.5
         greenSlider.value = 0.5
         blueSlider.value = 0.5
+        installationValues()
         updateColorView()
+    }
+    private func skipToDefault() {
+        defaultSettings()
     }
 }
 
